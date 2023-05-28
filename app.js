@@ -139,7 +139,7 @@ window.addEventListener('load', function () {
     }
 
     const effect = new Effect(ctx, canvas.width, canvas.height);
-    effect.wrapText('Hola how are you')
+    effect.wrapText('Sebastian Q')
     effect.render()
     function animate() {
         ctx.clearRect(0, 0, canvas.width, canvas.height)
