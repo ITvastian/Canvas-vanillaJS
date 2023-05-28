@@ -86,7 +86,7 @@ window.addEventListener('load', function () {
             this.context.lineWidth = 3;
             this.context.strokeStyle = 'white'
             this.context.letterSpacing = '4px'
-            this.context.font = this.fontSize + 'px Helvetica';
+            this.context.font = this.fontSize + 'px Dancing Script';
 
             //break multiline text
             let linesArray = [];
